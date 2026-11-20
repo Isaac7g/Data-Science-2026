@@ -1,9 +1,9 @@
 # Project title
 
-One sentence on what this project finds out.
+TBC - Plus, this Readme is to be filled out after the first submission, then iteratively added to over the 2nd/last part of term.
 
-- **Student ID:**
-- **Repository:** M5006-ds2026-studentnumber (or M6006-ds2026-studentnumber)
+- **Student ID:** 24000111884
+- **Repository:** M5006-ds2026-24000111884 (or M6006-ds2026-24000111884)
 
 This project lives in `project/`. The repository is the whole course folder:
 `requirements.txt` and `.gitignore` are at the repository root, and the

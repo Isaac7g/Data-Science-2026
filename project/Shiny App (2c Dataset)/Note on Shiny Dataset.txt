@@ -1,0 +1,9 @@
+This dataset was selected during term, relaying some findings using the dataset produced 
+as part of my 2c, which I am using this project to follow on from. 
+
+Personification was found to be influenced by an array of language features, as well as experience
+ - this Data Science project will explore this further within the conversations themselves, 
+ to measures beyond personification, and more to general effects, use and preference.
+
+This should hopefully inform analysis of the design choices of AI, and their consequences, as well
+as perhaps offering insight into human social preference and behaviour more broadly.
