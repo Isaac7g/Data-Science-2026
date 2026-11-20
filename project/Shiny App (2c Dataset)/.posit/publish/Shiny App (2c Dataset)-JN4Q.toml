@@ -4,12 +4,12 @@
 "$schema" = "https://cdn.posit.co/publisher/schemas/posit-publishing-schema-v3.json"
 type = "python-shiny"
 entrypoint = "project_app.py"
-title = "Shiny App"
+title = "Shiny App (2c Dataset)"
 files = [
     "/project_app.py",
     "/requirements.txt",
-    "/.posit/publish/Shiny App-QCDD.toml",
-    "/.posit/publish/deployments/deployment-OOM5.toml",
+    "/.posit/publish/Shiny App (2c Dataset)-JN4Q.toml",
+    "/.posit/publish/deployments/deployment-DTB6.toml",
     "/Combined_Data.csv",
 ]
 validate = true
